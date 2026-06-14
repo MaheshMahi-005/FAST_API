@@ -1,6 +1,6 @@
 .env
 venv/
-cvenv/
+myvenv/
 __pycache__/
 *.pyc
 pyvenv.cfg
